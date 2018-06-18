@@ -1,0 +1,2 @@
+THIS IS A LICENSE FILE.
+it will define the file access.
